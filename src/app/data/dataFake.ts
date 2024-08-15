@@ -7,7 +7,7 @@ export const dataFake = [
   },
   {
     "id":"2",
-    "title": "Marvel a caminho do Disney+",
+    "title": "Marvel no Disney+",
     "description": "Saiu nova série marvel",
     "photoCover": "https://lumiere-a.akamaihd.net/v1/images/disneyplus-marvel_curve_hero_m_2c51fbf4.jpeg?region=0,0,750,564"
   },
